@@ -1,4 +1,4 @@
-# Vite Plugin Devtools Outline
+# Vite Plugin Devtools Columns
 
 A dead-simple Vite plugin that adds a hotkey to toggle column helpers during dev only.
 
